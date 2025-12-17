@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="flex flex-col items-center justify-center text-center px-6 py-24 bg-white">
+    <section className="flex flex-col items-center justify-center text-center px-6 py-20 bg-white">
       <h1 className="text-4xl md:text-5xl font-bold text-gray-900 max-w-3xl">
         Empowering Businesses Through Smart Digital Solutions
       </h1>
